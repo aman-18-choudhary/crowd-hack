@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pandas
+tensorflow
+scikit-learn
+ultralytics
+fastapi
+uvicorn
+streamlit
+matplotlib
